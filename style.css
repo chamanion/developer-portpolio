@@ -11,10 +11,16 @@ h1{
 section{
     display: flex;
     padding-left: 20px;
+    margin-bottom: 150px;
 }
 .backround-banner{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+}
+.big-dream{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .half-with{
     width: 50%;
